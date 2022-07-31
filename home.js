@@ -16,6 +16,8 @@
 
 // document.getElementById('someText').innerHTML = age;
 
+// for example if you have <p id="someText"><p>
+
 // Numbers in Javascript
 
 /* var num1 = 10;
